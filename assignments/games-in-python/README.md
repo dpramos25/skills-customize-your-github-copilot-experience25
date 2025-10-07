@@ -6,7 +6,7 @@
 
 Construa o tradicional jogo da Forca usando Python. Pratique manipulação de strings, laços, condicionais e seleção aleatória enquanto cria uma experiência interativa.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Tarefa 1: Estrutura do Jogo
 
