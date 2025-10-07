@@ -1,32 +1,36 @@
 
 
-# 🎮 Assignment: Hangman Game
+# 📘 Assignment: Jogo da Forca
 
-## 🎯 Objective
+## 🎯 Objetivo
 
-Build the classic Hangman word-guessing game using Python. Practice string manipulation, loops, conditionals, and random selection while creating an interactive game experience.
+Construa o tradicional jogo da Forca usando Python. Pratique manipulação de strings, laços, condicionais e seleção aleatória enquanto cria uma experiência interativa.
 
 ## 📝 Tasks
 
-### 🛠️ Task 1: Set Up the Game
+### 🛠️ Tarefa 1: Estrutura do Jogo
 
-#### Description
-Create the basic structure for your Hangman game, including a list of possible words and the logic to randomly select one for the player to guess.
+#### Descrição
+Crie a estrutura básica do seu jogo da Forca, incluindo uma lista de palavras possíveis e a lógica para selecionar uma delas aleatoriamente para o jogador adivinhar.
 
-#### Requirements
-Completed program should:
-- Contain a predefined list of words
-- Randomly select a word at the start of each game
+#### Requisitos
+O programa final deve:
+- Conter uma lista pré-definida de palavras
+- Selecionar uma palavra aleatoriamente no início de cada partida
 
-### 🛠️ Task 2: Implement Game Logic
+### 🛠️ Tarefa 2: Lógica do Jogo
 
-#### Description
-Allow the player to guess letters, track their progress, and manage the number of incorrect attempts. Display the current state of the word after each guess and end the game with a win or lose message.
+#### Descrição
+Permita que o jogador chute letras, acompanhe o progresso e gerencie o número de tentativas incorretas. Mostre o estado atual da palavra a cada tentativa e finalize o jogo com uma mensagem de vitória ou derrota.
 
-#### Requirements
-Completed program should:
-- Accept letter guesses from the player
-- Show current progress (e.g., _ _ a _ _)
-- Track and display the number of incorrect guesses remaining
-- End when the word is guessed or attempts are exhausted
-- Display appropriate win or lose messages
+#### Requisitos
+O programa final deve:
+- Aceitar palpites de letras do jogador
+- Mostrar o progresso atual (ex: _ _ a _ _)
+- Controlar e exibir o número de tentativas incorretas restantes
+- Finalizar quando a palavra for descoberta ou as tentativas acabarem
+- Exibir mensagens apropriadas de vitória ou derrota
+
+---
+
+Boa sorte e divirta-se programando! 🚀
